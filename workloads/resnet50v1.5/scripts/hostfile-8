@@ -1,0 +1,8 @@
+172.168.0.1 port=22 slots=8
+172.168.0.3 port=22 slots=8
+172.168.0.13 port=22 slots=8
+172.168.0.15 port=22 slots=8
+172.168.0.7 port=22 slots=8
+172.168.0.9 port=22 slots=8
+172.168.0.11 port=22 slots=8
+172.168.0.27 port=22 slots=8
